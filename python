@@ -1,0 +1,4 @@
+nimi = input("Sisestage oma nimi: ")
+print("Hello, World!")
+print("Tere, maailm!")
+print("Tere,", nimi)
